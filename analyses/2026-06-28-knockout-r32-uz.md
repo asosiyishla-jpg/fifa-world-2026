@@ -44,6 +44,39 @@ $W_e(\text{CAN}) = \frac{1}{10^{(1720-1750)/400}+1} = 0.543$
 
 ---
 
+## 2-O'YIN — Braziliya vs Yaponiya · 1/16 final · 28 iyun
+
+**Natija holati:** Knockout bosqichi (28 iyun atrofida) — hali o'ynalmagan.
+
+**Joriy forma:** Braziliya C guruhi g'olibi (Shotlandiyani 3-0, Vinicius dubl); Yaponiya F guruhidan o'tdi (Tunisni 4-0 yutgan kuchli hujum, Niderlandiya bilan 2-2).
+
+### Jadval 2.1 — Tarkiblar va Jismoniy Holat
+| Terma jamoa | Elo (real/taxminiy) | Asosiy yulduz | Holati | Taktik tizim | Kuchli tomoni |
+|---|---|---|---|---|---|
+| Braziliya | **~2067** | `[MANBA TALAB QILINADI]` | `[MANBA TALAB QILINADI]` | 4-2-3-1, pozitsion hujum | Individual sifat + final uchdan bir xG |
+| Yaponiya | ~1850 | `[MANBA TALAB QILINADI]` | `[MANBA TALAB QILINADI]` | 4-2-3-1, tez kombinatsiya | Tempo + texnik progress |
+
+### Jadval 2.2 — Bashorat Matritsasi (Puasson & Elo, 90 daqiqa)
+| Ko'rsatkich | Braziliya | Yaponiya | Durrang (→ QV/penalti) |
+|---|---|---|---|
+| Elo g'alaba ehtimoli $W_e$ | 77.7% | 22.3% | — |
+| Puasson g'alaba ehtimoli (90 daq) | 59.8% | 17.9% | 22.2% |
+| Kutilgan gollar $\lambda$ | 1.85 | 0.85 | — |
+| Eng ehtimoliy hisob | — | — | **1-0 (~12.4%)**, keyin 2-0 (~11.5%) |
+| Yo'llanma olish ehtimoli (QV/penalti bilan) | ~70.9% | ~29.1% | — |
+
+$W_e(\text{BRA}) = \frac{1}{10^{(1850-2067)/400}+1} = 0.777$
+
+**[Block 1 — Maʼlumot ilgagi]** 217 ochkolik Elo farqi Braziliyaga 77.7% xom ehtimol beradi. Va Puasson 90-daqiqalik toza g'alabani 59.8% ga tushiradi, durrang ulushi 22.2%. Biroq yo'llanma ehtimoli (qo'shimcha vaqt bilan) ~70.9% — Braziliya aniq favorit.
+
+**[Block 2 — Taktik matritsa]** Yaponiyaning tez kombinatsion o'yini Braziliya pressingi orasida bo'shliqlar topishga intiladi. Lekin Braziliyaning individual sifati son bilan zararsizlantirib bo'lmaydigan holatlar yaratadi. Biroq Yaponiya tempi $\lambda=0.85$ ni tirik saqlaydi — Braziliya beparvo bo'lsa, upset imkoni bor.
+
+**[Block 3 — Jismoniy tahlil]** Hal qiluvchi ko'rsatkich — Braziliya hujumchilarining zarba tezligi va Yaponiya o'rta maydonining pressing chidamliligi `[MANBA TALAB QILINADI]`. $F_d = \tfrac{1}{2}\rho v^2 C_d A$ aerodinamik hadi Braziliyaning uzoqdan urishlar qiymatini oshiradi.
+
+**[Block 4 — Matematik verdikt]** Yo'llanma ehtimoli: Braziliya ~70.9%, Yaponiya ~29.1%. Demak model Braziliyani ishonchli favorit deb baholaydi, lekin Yaponiyaning texnik darajasi uni "qulay bo'lmagan raqib" qiladi.
+
+---
+
 ## Muvofiqlik Xulosasi (qisqartirilgan)
 | Mezon | Holat |
 |---|---|
