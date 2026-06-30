@@ -77,6 +77,74 @@ $W_e(\text{BRA}) = \frac{1}{10^{(1850-2067)/400}+1} = 0.777$
 
 ---
 
+## 3-O'YIN — Côte d'Ivoire vs Norvegiya · 1/16 final
+
+| Ko'rsatkich | Côte d'Ivoire | Norvegiya | Durrang→QV/penalti |
+|---|---|---|---|
+| Elo (taxminiy) | ~1770 | ~1900 | — |
+| Elo $W_e$ | 32.1% | 67.9% | — |
+| Puasson g'alaba (90 daq) | 24.7% | 48.7% | 26.6% |
+| $\lambda$ | 0.95 | 1.45 | — |
+| Eng ehtimoliy hisob | — | — | **0-1 (~13.2%)**, keyin 1-1 (~12.5%) |
+| Yo'llanma | ~38.0% | ~62.0% | — |
+
+$W_e(\text{NOR}) = \frac{1}{10^{(1770-1900)/400}+1} = 0.679$
+
+**[Bashorat]** 130 ochkolik Elo farqi Norvegiyaga 67.9% xom ehtimol beradi. Va Puasson 90-daqiqalik g'alabani 48.7% ga tushiradi, durrang 26.6% — QV ehtimoli yuqori. Biroq Norvegiyaning Haaland orqali hujum hosilasi $\lambda=1.45$ ni ta'minlaydi; Côte d'Ivoire jismoniyligi esa kontr-tahdid saqlaydi.
+
+---
+
+## 4-O'YIN — Fransiya vs Shvetsiya · 1/16 final
+
+| Ko'rsatkich | Fransiya | Shvetsiya | Durrang→QV/penalti |
+|---|---|---|---|
+| Elo (real/taxminiy) | **~2132** | ~1780 | — |
+| Elo $W_e$ | 88.4% | 11.6% | — |
+| Puasson g'alaba (90 daq) | 67.9% | 13.3% | 18.9% |
+| $\lambda$ | 2.10 | 0.70 | — |
+| Eng ehtimoliy hisob | — | — | **0-2 (~13.4%)**, keyin 0-1 (~12.8%) |
+| Yo'llanma | ~77.4% | ~22.6% | — |
+
+$W_e(\text{FRA}) = \frac{1}{10^{(1780-2132)/400}+1} = 0.884$
+
+**[Bashorat]** 352 ochkolik Elo farqi Fransiyaga 88.4% xom ehtimol beradi. Va kalibrlangan $\lambda_{FRA}=2.10$ Puassonda 67.9% toza g'alaba beradi; yo'llanma ~77.4%. Biroq Shvetsiyaning jismoniy bloki va standart holat tahdidi $\lambda=0.70$ ni tirik saqlaydi — Fransiya ishonchli favorit, lekin sovuq kun upsetga olib kelishi mumkin.
+
+---
+
+## 5-O'YIN — Meksika vs Ekvador · 1/16 final
+
+| Ko'rsatkich | Meksika | Ekvador | Durrang→QV/penalti |
+|---|---|---|---|
+| Elo (real/taxminiy) | **~2072** | ~1830 | — |
+| Elo $W_e$ | 80.1% | 19.9% | — |
+| Puasson g'alaba (90 daq) | 56.7% | 19.4% | 23.9% |
+| $\lambda$ | 1.70 | 0.85 | — |
+| Eng ehtimoliy hisob | — | — | **1-0 (~13.3%)**, keyin 1-1 / 2-0 (~11.3%) |
+| Yo'llanma | ~68.7% | ~31.3% | — |
+
+$W_e(\text{MEX}) = \frac{1}{10^{(1830-2072)/400}+1} = 0.801$
+
+**[Bashorat]** 242 ochkolik Elo farqi Meksikaga 80.1% xom ehtimol beradi (uy-egasi yuqori reytingi). Va Puasson 90-daqiqalik g'alabani 56.7% ga tushiradi; yo'llanma ~68.7%. Biroq Ekvadorning intensiv himoyasi $\lambda_{MEX}$ ni 1.70 da cheklaydi — durrang ehtimoli 23.9%.
+
+---
+
+## 6-O'YIN — Angliya vs Kongo DR · 1/16 final
+
+| Ko'rsatkich | Angliya | Kongo DR | Durrang→QV/penalti |
+|---|---|---|---|
+| Elo (real/taxminiy) | **~2073** | ~1680 | — |
+| Elo $W_e$ | 90.6% | 9.4% | — |
+| Puasson g'alaba (90 daq) | 70.8% | 10.8% | 18.4% |
+| $\lambda$ | 2.15 | 0.70 | — |
+| Eng ehtimoliy hisob | — | — | **2-0 (~13.4%)**, keyin 1-0 (~12.4%) |
+| Yo'llanma | ~80.0% | ~20.0% | — |
+
+$W_e(\text{ENG}) = \frac{1}{10^{(1680-2073)/400}+1} = 0.906$
+
+**[Bashorat]** 393 ochkolik Elo farqi Angliyaga 90.6% xom ehtimol beradi. Va kalibrlangan $\lambda_{ENG}=2.15$ Puassonda 70.8% toza g'alaba beradi; yo'llanma ~80.0%. Biroq Kongo DR ning tashkillashgan past bloki (guruhda Portugaliya bilan 1-1) Angliyani sabrli penetratsiyaga majburlaydi.
+
+---
+
 ## Muvofiqlik Xulosasi (qisqartirilgan)
 | Mezon | Holat |
 |---|---|
